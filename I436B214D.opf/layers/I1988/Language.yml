@@ -1,0 +1,14 @@
+id: 45ac7ef7dba249bbaa8d6e6146ecc3db
+annotation_type: Language
+revision: '00001'
+annotations:
+  7f56519011d44c2bad6246bfe8fa343c:
+    span:
+      start: 0
+      end: 2491
+    language: en
+  bcf16a166f64439897630c829f2dba5a:
+    span:
+      start: 250978
+      end: 251002
+    language: sa-Deva
